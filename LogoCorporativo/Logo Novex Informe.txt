@@ -1,0 +1,46 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Logo Novex.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 110 px x 270,3577 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\Usuario\Desktop\NOVEX-NUEVO.png
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 6075K, 1920 por 1080 píxeles
+Dimensiones: 43,899 por 24,693 puntos 
+Resolución: 3149,044 por 3149,044 píxeles por pulgada
